@@ -5,6 +5,7 @@ This `docs` folder contains the public-facing briefs and planning materials that
 ## Contents
 
 - `public-briefs/`: short public summaries of the candidate and project
+- `FAQ.md`: short answers to common reviewer and collaborator questions
 - `evidence/`: curated public evidence and compact result summaries
 - `validation/`: the public validation scope and acceptance logic
 - `funding/`: staged funding rationale for external support

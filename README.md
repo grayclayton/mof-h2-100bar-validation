@@ -40,6 +40,7 @@ That is the right question for this stage. The project is not asking anyone to a
 - [DISCLAIMER.md](DISCLAIMER.md): safety and evidence boundaries
 - [docs/public-briefs/V010_ONE_PAGE_EXTERNAL_BRIEF.md](docs/public-briefs/V010_ONE_PAGE_EXTERNAL_BRIEF.md): short external summary
 - [docs/public-briefs/V010_NONTECH_EXPLANATION.md](docs/public-briefs/V010_NONTECH_EXPLANATION.md): plain-language candidate explanation
+- [docs/FAQ.md](docs/FAQ.md): short answers to common reviewer questions
 - [docs/evidence/EVIDENCE_SUMMARY.md](docs/evidence/EVIDENCE_SUMMARY.md): curated public evidence summary
 - [docs/evidence/MODELED_RESULTS_TABLE.md](docs/evidence/MODELED_RESULTS_TABLE.md): compact modeled results table
 - [docs/validation/STAGED_VALIDATION_PLAN.md](docs/validation/STAGED_VALIDATION_PLAN.md): validation sequence and gates

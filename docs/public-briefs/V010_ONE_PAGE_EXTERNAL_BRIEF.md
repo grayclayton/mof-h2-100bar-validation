@@ -2,7 +2,7 @@
 
 ## Request
 
-V010 is an evidence-backed hydrogen-storage candidate that is ready for limited external validation. The immediate need is not a broad research program. It is a focused test campaign to determine whether a physical sample reproduces the modeled structure and room-temperature hydrogen behavior.
+V010 is a computationally supported hydrogen-storage candidate that is ready for limited external validation. The immediate need is not a broad research program. It is a focused go or no-go test campaign to determine whether a physical sample can reproduce the expected structure and enough of the modeled room-temperature hydrogen behavior to justify deeper work.
 
 The most useful forms of support are:
 
@@ -32,6 +32,8 @@ The current package supports V010 as a serious validation candidate rather than 
 
 Internal proving gates were passed for the modeled campaign.
 
+These are modeled results, not experimental measurements.
+
 ## External Validation Scope
 
 The unresolved question is physical validation.
@@ -53,6 +55,10 @@ This is a credible AI-for-science test case because it has:
 - useful outputs even if the physical result is negative
 
 That last point matters. A negative result would still produce useful validation data on AI-assisted materials search and the gap between modeled and experimental outcomes.
+
+## Best Near-Term Outcome
+
+The best immediate outcome is not a broad grant. It is one qualified lab review, one real synthesis quote, or one small validation commitment tied to a defined milestone.
 
 ## Positioning Line
 
