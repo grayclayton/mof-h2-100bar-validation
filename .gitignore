@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+
+# Local scratch and platform files
+Thumbs.db
+Desktop.ini
+
+# Generated outputs that should stay out of the public repo by default
+output/
+test-results/
+result_summery/
