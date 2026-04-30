@@ -6,7 +6,7 @@ Stage 1: Synthesize a promising hydrogen-storage MOF candidate for real-world te
 
 ## Short Summary
 
-This project funds the first real-world gate for an AI-supported hydrogen-storage material candidate: making the physical material. The candidate has already been narrowed computationally, but no experimental validation can begin until a lab actually synthesizes the target framework.
+This project funds the first real-world gate for a hydrogen-storage material candidate: making the physical material. The candidate has already been narrowed computationally, but no experimental validation can begin until a lab actually synthesizes the target framework.
 
 ## What Stage 1 Funds
 

@@ -2,7 +2,7 @@
 
 ## What is this repository?
 
-This repository is a public-facing package for an AI-assisted materials-discovery project focused on staged validation of a hydrogen-storage MOF candidate.
+This repository is a public-facing package for staged validation of a hydrogen-storage MOF candidate with an interesting ambient-temperature and 100 bar modeled signal.
 
 ## Is the candidate experimentally proven?
 
@@ -18,7 +18,7 @@ The next major milestone is obtaining a real synthesis quote from a qualified la
 
 ## Why include negative-result language?
 
-Because a disciplined negative result is still scientifically useful. It helps document the gap between modeled candidates and experimental reality, which is valuable for AI-assisted discovery work.
+Because a disciplined negative result is still scientifically useful. It helps document the gap between modeled candidates and experimental reality.
 
 ## Is this a request for a large research grant?
 

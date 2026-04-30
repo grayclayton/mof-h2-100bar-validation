@@ -9,7 +9,10 @@ This `docs` folder contains the public-facing briefs and planning materials that
 - `evidence/`: curated public evidence and compact result summaries
 - `validation/`: the public validation scope and acceptance logic
 - `funding/`: staged funding rationale for external support
+- `visibility/`: recognition, citation, and public release strategy
 - `workflows/`: public summary of the workflow surfaces
+
+The `evidence/` section should stay curated. See `evidence/PUBLIC_REPRODUCIBILITY_SCOPE.md` for the intended include/exclude boundary for computational artifacts.
 
 These files are intentionally narrower than the internal repository materials. They are designed to explain the project clearly without exposing private outreach operations or overstating experimental status.
 

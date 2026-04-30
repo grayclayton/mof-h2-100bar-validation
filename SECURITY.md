@@ -15,7 +15,11 @@ Security concerns can include:
 
 If you find a security or sensitive-data issue, do not post secrets publicly in an issue.
 
-Instead, report the problem privately to the repository maintainer using the contact method that will be added when the public repository is created.
+Instead, use a private vulnerability report through GitHub Security Advisories on the published repository.
+
+Before publishing the repository, enable GitHub private vulnerability reporting and verify that the chosen route works.
+
+If private vulnerability reporting is not enabled yet, do not invite security reports until a private reporting channel is in place.
 
 ## Public Safety Note
 

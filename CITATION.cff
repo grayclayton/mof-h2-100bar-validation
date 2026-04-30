@@ -1,14 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this project, please cite the repository and link to the public release."
-title: "hydrogen-mof-validation"
+message: "If you use this project, please cite it using the metadata from this file."
+title: "mof-h2-100bar-validation"
 type: software
 authors:
-  - family-names: "Contributor"
-    given-names: "Independent"
-repository-code: "https://github.com/zinjari/hydrogen-mof-validation"
-abstract: "A public package for an AI-assisted materials-discovery workflow and staged external validation plan focused on a hydrogen-storage candidate."
+  - given-names: "Clayton"
+    family-names: "Gray"
+repository-code: "https://github.com/zinjari/mof-h2-100bar-validation"
+abstract: "A public package for staged validation of a hydrogen-storage MOF candidate with an emphasis on ambient-temperature and 100 bar modeled evidence."
 keywords:
-  - ai-for-science
   - materials-discovery
   - hydrogen-storage
   - mof

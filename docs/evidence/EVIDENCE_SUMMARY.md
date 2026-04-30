@@ -20,7 +20,7 @@ That means the project has a real evidence package, but it does not yet have phy
 
 Based on the current project materials, the following claims are reasonable:
 
-- a structured AI-assisted workflow was used to identify and package a lead hydrogen-storage candidate
+- a structured computational screening and packaging process was used to identify and package a lead hydrogen-storage candidate
 - the V010 candidate cleared the internal modeled screening gates used in this project
 - the project includes a staged validation plan with defined decision points
 - the next scientific step is narrow and testable rather than open-ended
@@ -29,13 +29,15 @@ Based on the current project materials, the following claims are reasonable:
 
 The current public summary for V010 includes the following modeled indicators:
 
-- about 5.03 wt% modeled hydrogen uptake at 298.15 K
+- about 5.03 wt% modeled hydrogen uptake at ambient temperature (298.15 K) and 100 bar
 - about 94.70% mean release
 - stable behavior across a 10-cycle durability rerun
-- stable temperature-response checks from 273.15 K to 323.15 K
+- stable secondary temperature-response checks from 273.15 K to 323.15 K
 - no apparent mass-transfer bottleneck in the internal review
 
 See [MODELED_RESULTS_TABLE.md](MODELED_RESULTS_TABLE.md) for a compact tabular summary.
+
+See [PUBLIC_EVIDENCE_PROVENANCE.md](PUBLIC_EVIDENCE_PROVENANCE.md) for the file-level map from public claims to public artifacts.
 
 ## What Is Not Yet Proven
 
@@ -66,7 +68,7 @@ If that step succeeds, the next validation sequence is:
 
 1. PXRD confirmation
 2. activation and sample-quality review
-3. room-temperature hydrogen uptake and release testing
+3. ambient-temperature hydrogen uptake and release testing with a 100 bar endpoint
 4. short repeat-cycle confirmation
 
 ## Publication Standard

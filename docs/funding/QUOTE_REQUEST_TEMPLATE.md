@@ -1,6 +1,6 @@
 # Quote Request Template
 
-Use this template when contacting a possible synthesis partner for an initial quote discussion.
+Use this template as a public example for an initial quote discussion. Keep any named contacts, private notes, and routing decisions outside the repository.
 
 ## Subject Line Options
 

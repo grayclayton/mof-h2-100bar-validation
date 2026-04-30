@@ -10,7 +10,7 @@ It does not yet have physical validation.
 
 The following claims are reasonable based on the current repository materials:
 
-- a structured AI-assisted workflow was used to identify and package a lead candidate
+- a structured computational screening and packaging process was used to identify and package a lead candidate
 - the V010 candidate cleared the internal modeled screening gates used in this project
 - the project includes a staged lab-validation package rather than only a concept note
 - the next scientific step is narrow and testable

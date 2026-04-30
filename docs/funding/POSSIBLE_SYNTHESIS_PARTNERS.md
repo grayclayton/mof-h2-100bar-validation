@@ -1,46 +1,35 @@
-# Possible Synthesis Partners
+# Public Synthesis Search Guide
 
-These are example public-facing leads for early fit assessment. Treat them as starting points, not endorsements.
+This page keeps the public package at a general, reusable level. It does not name or rank specific vendors, labs, or outreach targets.
 
-## Best First Contacts
+## Good First Search Categories
 
-### Promethean Particles
+Look for organizations that publicly present one or more of the following:
 
-Why they are relevant:
+- MOF or porous-material synthesis experience
+- PXRD or related structural characterization support
+- activation and gas-sorption preparation capability
+- small-batch custom synthesis or feasibility-review services
+- willingness to provide an initial quote or fit assessment
 
-- publicly presents strong MOF synthesis expertise
-- appears close to real-world manufacturability questions
-- is a strong first fit for initial feasibility feedback
+## Practical Search Routes
 
-Public site:
+Useful public search routes include:
 
-- https://prometheanparticles.co.uk/
+- commercial custom-synthesis providers with porous-material or framework experience
+- specialist materials companies focused on MOFs, adsorbents, or related platforms
+- university materials-chemistry groups with MOF synthesis and characterization expertise
+- shared instrumentation or characterization facilities that can provide referrals
 
-### MOF Technologies
+## Screening Questions
 
-Why they are relevant:
+Before sharing technical details, confirm whether the group can:
 
-- appears closely aligned with MOF-focused work
-- may be useful either as a direct fit or as a referral source
+- review a framework-material synthesis request at exploratory scale
+- work under appropriate confidentiality terms if needed
+- provide only synthesis, or also PXRD, activation, and sample-readiness checks
+- quote small decision-oriented work rather than only large production runs
 
-Public site:
+## Public Boundary
 
-- https://www.moftechnologies.com/
-
-## Fallback Routes
-
-### Merck / Sigma-Aldrich Custom Products
-
-Public site:
-
-- https://www.sigmaaldrich.com/US/en/services/custom-products
-
-### WuXi AppTec Custom Synthesis
-
-Public site:
-
-- https://www.wuxiapptec.com/services/chemistry/custom-synthesis
-
-## Academic Route
-
-Also consider university materials chemistry groups or shared synthesis and characterization facilities with MOF expertise.
+Keep named contact lists, direct outreach routing notes, and private partner rankings outside the public repository.

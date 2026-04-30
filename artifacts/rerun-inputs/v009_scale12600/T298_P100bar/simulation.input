@@ -1,0 +1,21 @@
+SimulationType                MonteCarlo
+NumberOfCycles                4000
+NumberOfInitializationCycles  1000
+PrintEvery                    200
+
+Forcefield                    UFF
+CutOff                        12.0
+
+Framework 0
+FrameworkName                 v009_scale12600_proxy_simple
+UnitCells                     1 1 1
+ExternalTemperature           298.15
+ExternalPressure              10000000.0
+
+Component 0 MoleculeName      H2
+            MoleculeDefinition TraPPE
+            TranslationProbability 0.5
+            RotationProbability    0.5
+            ReinsertionProbability 0.5
+            SwapProbability        1.0
+            CreateNumberOfMolecules 0

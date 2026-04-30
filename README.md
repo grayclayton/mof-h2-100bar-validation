@@ -1,6 +1,6 @@
-# hydrogen-mof-validation
+# mof-h2-100bar-validation
 
-Apache-2.0 licensed public package for an AI-assisted materials-discovery workflow focused on staged validation of a hydrogen-storage MOF candidate.
+Apache-2.0 licensed public package for staged validation of a hydrogen-storage MOF candidate, with particular interest in whether the modeled signal remains compelling at ambient temperature and 100 bar.
 
 ## What This Is
 
@@ -8,11 +8,12 @@ This repository is meant to be a clean public front door for the project.
 
 It documents:
 
-- the computational workflow direction
 - the current lead candidate, V010
+- the ambient-temperature and 100 bar validation hook that makes the candidate interesting to test
 - the boundary between modeled evidence and physical proof
 - the staged validation plan
 - the staged funding logic for external testing
+- the public recognition and visibility strategy for the validation effort
 
 ## What This Is Not
 
@@ -30,9 +31,11 @@ See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the exact evidence boundary.
 
 The practical question is narrow:
 
-Can a computationally selected hydrogen-storage candidate justify a small, disciplined external validation step?
+Can a computationally selected hydrogen-storage candidate with interesting modeled behavior at ambient temperature and 100 bar justify a small, disciplined external validation step?
 
 That is the right question for this stage. The project is not asking anyone to assume the material is already proven.
+
+The public hook is not just that a candidate exists. It is that the current modeled package suggests a result worth trying to falsify in the lab under ambient-temperature, 100 bar conditions that could matter for hydrogen storage decisions.
 
 ## Repository Guide
 
@@ -43,8 +46,12 @@ That is the right question for this stage. The project is not asking anyone to a
 - [docs/FAQ.md](docs/FAQ.md): short answers to common reviewer questions
 - [docs/evidence/EVIDENCE_SUMMARY.md](docs/evidence/EVIDENCE_SUMMARY.md): curated public evidence summary
 - [docs/evidence/MODELED_RESULTS_TABLE.md](docs/evidence/MODELED_RESULTS_TABLE.md): compact modeled results table
+- [docs/evidence/PUBLIC_EVIDENCE_PROVENANCE.md](docs/evidence/PUBLIC_EVIDENCE_PROVENANCE.md): file-level map from public claims to public evidence files
+- [docs/evidence/PUBLIC_REPRODUCIBILITY_SCOPE.md](docs/evidence/PUBLIC_REPRODUCIBILITY_SCOPE.md): what computational artifacts to include in the public package
+- [artifacts/README.md](artifacts/README.md): curated public CIF and rerun-input bundle
 - [docs/validation/STAGED_VALIDATION_PLAN.md](docs/validation/STAGED_VALIDATION_PLAN.md): validation sequence and gates
 - [docs/funding/STAGED_FUNDING_PLAN.md](docs/funding/STAGED_FUNDING_PLAN.md): milestone-based funding structure
+- [docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md](docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md): how to build visibility without losing attribution
 - [docs/workflows/WORKFLOW_OVERVIEW.md](docs/workflows/WORKFLOW_OVERVIEW.md): public workflow overview
 
 ## Why The Staged Structure Matters
@@ -59,12 +66,25 @@ At this stage, the most useful next outcomes are:
 
 1. one real synthesis quote
 2. one qualified lab or collaborator willing to review the candidate
-3. one public release of the workflow and candidate package
+3. one public release of the candidate and evidence package
 4. one external validation result, whether positive or negative
 
 ## Publication Standard
 
 This project should publish negative or mixed results as well as positive ones. That is part of what makes the workflow scientifically useful.
+
+## Recognition And Citation
+
+If this package is published publicly, recognition should be built through a durable citation trail rather than informal visibility alone.
+
+The preferred order is:
+
+1. publish the repository
+2. create a tagged public release
+3. archive that release with a DOI service such as Zenodo
+4. use the same public repository as the canonical reference in outreach and review conversations
+
+See [docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md](docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md) for the concrete strategy.
 
 ## Before Publishing More Material
 

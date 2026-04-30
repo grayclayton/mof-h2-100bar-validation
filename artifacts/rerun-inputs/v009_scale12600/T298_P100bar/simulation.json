@@ -1,0 +1,33 @@
+{
+  "SimulationType": "MonteCarlo",
+  "NumberOfCycles": 4000,
+  "NumberOfInitializationCycles": 1000,
+  "PrintEvery": 200,
+  "Systems": [
+    {
+      "Type": "Framework",
+      "Name": "v009_scale12600_proxy_simple",
+      "NumberOfUnitCells": [
+        1,
+        1,
+        1
+      ],
+      "ChargeMethod": "None",
+      "ExternalTemperature": 298.15,
+      "ExternalPressure": 10000000.0
+    }
+  ],
+  "Components": [
+    {
+      "Name": "H2",
+      "FugacityCoefficient": 1.0,
+      "IdealGasRosenbluthWeight": 1.0,
+      "TranslationProbability": 0.5,
+      "RotationProbability": 0.5,
+      "ReinsertionProbability": 0.5,
+      "SwapProbability": 1.0,
+      "WidomProbability": 1.0,
+      "CreateNumberOfMolecules": 0
+    }
+  ]
+}

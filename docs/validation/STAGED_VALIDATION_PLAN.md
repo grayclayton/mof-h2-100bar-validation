@@ -19,7 +19,7 @@ The experimental work is intended to answer a narrow question: do the modeled im
 1. synthesis quote and sample-production review
 2. PXRD confirmation against expected references
 3. activation and sample-readiness check
-4. room-temperature adsorption and release test
+4. ambient-temperature adsorption and release test with a 100 bar endpoint
 5. short repeat-cycle confirmation
 
 ## Controlled Variables
