@@ -24,12 +24,14 @@ Recommended inclusions:
 - a short provenance note explaining which artifacts support which public claims
 - rerun input bundles only if the public release is intended to support limited computational reruns
 
+For the current public package, the compact isotherm slice is a small 298.15 K table built from the 5 bar and 100 bar evidence points, not a full pressure sweep.
+
 In practice, that usually means selecting from a curated bundle that contains only the published candidate structures, compact tables, and the smallest rerun-input slice needed for public auditability:
 
 - `cifs/`
 - `isotherms/`
 - `tables/`
-- selected `rerun_inputs/`
+- selected `rerun-inputs/`
 - selected proving documents that explain provenance and evidence boundaries
 
 ## Usually Exclude From The Public Package
@@ -60,7 +62,7 @@ If the answer to those questions is mostly no, the file probably does not belong
 For this repository, a disciplined minimum set is:
 
 1. base, V009, and V010 locked CIF files
-2. one compact isotherm evidence table or CSV set
+2. one compact isotherm evidence table or CSV set for the current 298.15 K, 5/100 bar public slice
 3. one compact restart or replicate metrics table
 4. one short provenance note connecting those artifacts to the values cited in the public evidence summary
 

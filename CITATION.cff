@@ -5,7 +5,7 @@ type: software
 authors:
   - given-names: "Clayton"
     family-names: "Gray"
-repository-code: "https://github.com/zinjari/mof-h2-100bar-validation"
+repository-code: "https://github.com/grayclayton/mof-h2-100bar-validation"
 abstract: "A public package for staged validation of a hydrogen-storage MOF candidate with an emphasis on ambient-temperature and 100 bar modeled evidence."
 keywords:
   - materials-discovery

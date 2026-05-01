@@ -48,7 +48,7 @@ The public hook is not just that a candidate exists. It is that the current mode
 - [docs/evidence/MODELED_RESULTS_TABLE.md](docs/evidence/MODELED_RESULTS_TABLE.md): compact modeled results table
 - [docs/evidence/PUBLIC_EVIDENCE_PROVENANCE.md](docs/evidence/PUBLIC_EVIDENCE_PROVENANCE.md): file-level map from public claims to public evidence files
 - [docs/evidence/PUBLIC_REPRODUCIBILITY_SCOPE.md](docs/evidence/PUBLIC_REPRODUCIBILITY_SCOPE.md): what computational artifacts to include in the public package
-- [artifacts/README.md](artifacts/README.md): curated public CIF and rerun-input bundle
+- [artifacts/README.md](artifacts/README.md): curated public artifact bundle with CIFs, compact isotherm points, metrics tables, and rerun inputs
 - [docs/validation/STAGED_VALIDATION_PLAN.md](docs/validation/STAGED_VALIDATION_PLAN.md): validation sequence and gates
 - [docs/funding/STAGED_FUNDING_PLAN.md](docs/funding/STAGED_FUNDING_PLAN.md): milestone-based funding structure
 - [docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md](docs/visibility/RECOGNITION_AND_VISIBILITY_PLAN.md): how to build visibility without losing attribution
@@ -68,6 +68,14 @@ At this stage, the most useful next outcomes are:
 2. one qualified lab or collaborator willing to review the candidate
 3. one public release of the candidate and evidence package
 4. one external validation result, whether positive or negative
+
+## For Qualified Collaborators
+
+This repository is intended to function as a clean public evidence package and citation target.
+
+It is not meant to be a full lab-execution binder.
+
+If a qualified lab or collaborator wants to evaluate synthesis or testing feasibility, additional lab-facing execution materials can be shared separately on request.
 
 ## Publication Standard
 

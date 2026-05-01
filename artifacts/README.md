@@ -20,6 +20,14 @@ They were not assembled from the broader raw run trees.
 - `cifs/v009_scale12600_proxy_simple.cif`
 - `cifs/v010_scale12600_cuni12_proxy_simple.cif`
 
+### Compact Public Isotherm Points
+
+- `isotherms/public_h2_isotherm_points_298K.csv`
+
+This compact table flattens the public 298.15 K, 5 bar, and 100 bar restart slice into per-pressure isotherm points for the base control, V009, and V010.
+
+It removes internal filesystem paths while keeping the public run labels, candidate IDs, pressures, and uptake values.
+
 ### Clean Public Metrics Table
 
 - `tables/public_restart_replicate_metrics.csv`
@@ -58,7 +66,7 @@ The public bundle excludes:
 
 ## How To Read This Bundle
 
-Use the CIF files and cleaned metrics table as the primary public evidence artifacts.
+Use the CIF files, compact isotherm-points table, and cleaned metrics tables as the primary public evidence artifacts.
 
 Use the limited rerun-input folders only as a compact configuration reference for the published 298.15 K, 5 bar, and 100 bar cases.
 

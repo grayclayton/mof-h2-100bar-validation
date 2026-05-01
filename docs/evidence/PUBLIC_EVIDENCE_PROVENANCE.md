@@ -41,9 +41,12 @@ Supported by:
 
 Supported by:
 
+- `artifacts/isotherms/public_h2_isotherm_points_298K.csv`
 - `artifacts/tables/public_restart_replicate_metrics.csv`
 
-That table is the main public artifact for the ambient-temperature (298.15 K), 5 bar, and 100 bar replicate slice.
+The compact isotherm-points table shows the public 298.15 K restart slice as per-pressure uptake rows.
+
+The restart metrics table is the matching replicate summary artifact for the same 5 bar and 100 bar slice.
 
 ### Claim: The public ambient-temperature, 100 bar summary for V010 is about 5.03 wt% uptake and about 94.70% mean release
 
