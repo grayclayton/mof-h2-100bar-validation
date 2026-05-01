@@ -1,5 +1,7 @@
 # mof-h2-100bar-validation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19949626.svg)](https://doi.org/10.5281/zenodo.19949626)
+
 Apache-2.0 licensed public package for staged validation of a hydrogen-storage MOF candidate, with particular interest in whether the modeled signal remains compelling at ambient temperature and 100 bar.
 
 ## What This Is
@@ -84,6 +86,8 @@ This project should publish negative or mixed results as well as positive ones. 
 ## Recognition And Citation
 
 If this package is published publicly, recognition should be built through a durable citation trail rather than informal visibility alone.
+
+Zenodo DOI: https://doi.org/10.5281/zenodo.19949626
 
 The preferred order is:
 
